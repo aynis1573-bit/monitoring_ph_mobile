@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "689644047805",
+    "project_id": "praktikum-iot-dht",
+    "storage_bucket": "praktikum-iot-dht.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689644047805:android:3342f53a7ff88a84b616d4",
+        "android_client_info": {
+          "package_name": "com.example.monitoring_ph"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCOvKeR5xEfFpnqaSsVY5xR3tQVXrReNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
